@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: linear-gradient(to left bottom, #668282, #9ab8b8, white);
+  background: linear-gradient(to left bottom, #007F53, #00CC84, white);
   background-size: cover;
   background-attachment: fixed;
   font-family: Verdana; Geneva, sans-serif;
