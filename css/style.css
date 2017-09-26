@@ -9,7 +9,7 @@ body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Verdana; Geneva, sans-serif;
   font-size: 100%;
 }
 
@@ -53,8 +53,7 @@ img {
 
 p {
   font-size: 1.5em;
-  font-family: Impact, Charcoal, sans-serif;
-  color: darkblue;
+  color: darkgray;
 }
 
 a {
